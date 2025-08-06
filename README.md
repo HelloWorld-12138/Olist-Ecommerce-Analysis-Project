@@ -1,8 +1,7 @@
-# 🛒 Predictive Analysis for Demand Forecast in E-Commerce Supply Chains
+# Predictive Analysis for Demand Forecast in E-Commerce Supply Chains
 
 ![Project Header](github_support_image/head.png)
 
----
 
 ## 🧩 Project Overview
 
@@ -23,7 +22,7 @@ A comprehensive predictive analytics framework for e-commerce supply chain optim
 
 ## 🧱 Framework Architecture
 
-<img src="github_support_image/Framework.png" width="800" alt="Framework Architecture">
+<img src="github_support_image/Framework.png" width="400" alt="Framework Architecture">
 
 A multi-stage analytics pipeline, integrating infrastructure, modeling, and business decision logic:
 
