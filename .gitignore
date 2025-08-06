@@ -133,3 +133,6 @@ dmypy.json
 # *.xlsx
 # *.xls
 # *.json
+
+# R history file
+.Rhistory

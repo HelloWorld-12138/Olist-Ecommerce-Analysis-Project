@@ -23,7 +23,7 @@ A comprehensive predictive analytics framework for e-commerce supply chain optim
 
 ## 🧱 Framework Architecture
 
-![Framework](github_support_image/Framework.png)
+<img src="github_support_image/Framework.png" width="800" alt="Framework Architecture">
 
 A multi-stage analytics pipeline, integrating infrastructure, modeling, and business decision logic:
 
