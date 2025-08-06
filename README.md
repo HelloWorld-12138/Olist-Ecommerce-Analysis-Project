@@ -142,7 +142,7 @@ Olist_Ecommerce_Analysis_Project/
 ├── requirements.txt              
 └── README.md                    
 ```
----
+</details>
 
 ## 🛠️ Technology Stack
 
