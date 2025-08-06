@@ -89,7 +89,6 @@ This project is built on the [Olist Brazilian E-Commerce Dataset](https://www.ka
 
 ## 🗂️ Project Structure
 
-<details><summary><strong>Click to expand</strong></summary>
 ```
 Olist_Ecommerce_Analysis_Project/
 ├── 1_data_preparation/          # Data Infrastructure and ETL Pipeline
@@ -142,7 +141,6 @@ Olist_Ecommerce_Analysis_Project/
 ├── requirements.txt              
 └── README.md                    
 ```
-</details>
 
 ## 🛠️ Technology Stack
 
@@ -168,7 +166,7 @@ Olist_Ecommerce_Analysis_Project/
 ### Quick Start
 
 ```bash
-git clone <repo>
+git clone https://github.com/HelloWorld-12138/Olist-Ecommerce-Analysis-Project
 cd Olist_Ecommerce_Analysis_Project
 pip install -r requirements.txt
 cd 1_data_preparation && bash run_all.sh
