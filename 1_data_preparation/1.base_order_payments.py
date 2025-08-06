@@ -171,7 +171,6 @@ def clean_order_payments(df: pd.DataFrame) -> pd.DataFrame:
     # 5. Remove any remaining rows with missing values
     df_clean = df_clean.dropna()
 
-    # 检查清理后的 payment_installments 分布
     print("\nPayment installments distribution after cleaning:")
     print(df_clean["payment_installments"].value_counts().sort_index())
 
